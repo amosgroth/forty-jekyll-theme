@@ -5,7 +5,7 @@ email: youremailaddress@gmail.com
 description: Scuba Diving and Lodging in one place.<br/>Where people meet, live, learn and share their ideas and exciting experiences.
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
-author:
+author: Cristóvão Catarino
 street_address: Rua da Pedra Negra
 city: Sagres
 state: Baleeira
@@ -15,7 +15,7 @@ phone: +351 913210716
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 2
+tiles-count: 3
 
 # social settings
 500px_url:
