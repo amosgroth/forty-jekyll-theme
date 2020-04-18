@@ -1,8 +1,8 @@
 ---
 layout: home
 title: Home
-landing-title: 'Diving at Algarve'
-description: Once you get to Sagres, you´ll find the most precious treasure of Algarve, you´ll feel like you don´t want to leave. The people, the unique scenery, unspoiled beaches and a laid back atmosphere, are some of the ingredients you´ll get on a very special vacation.
+landing-title: 'Dive Camp Algarve'
+description: Once you get to Sagres, you´ll find the most precious treasure of Algarve, you´ll feel like you don´t want to leave. The people, the unique scenery and wildlife, unspoiled beaches and a laid back atmosphere, are some of the ingredients you´ll get on a very special diving vacation.
 image: null
 author: null
 show_tile: false
