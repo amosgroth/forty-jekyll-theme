@@ -15,14 +15,14 @@ phone: +351 913210716
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 3
+tiles-count: 2
 
 # social settings
 500px_url:
 facebook_url: https://www.facebook.com/puravidadivehouse
 # github_url:
 # gitlab_url: 
-googleplus_url: https://plus.google.com/u/0/104538173205622522267
+# googleplus_url: https://plus.google.com/u/0/104538173205622522267
 instagram_url: https://www.instagram.com/puravidadivehouse
 # linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
 # pinterest_url:
